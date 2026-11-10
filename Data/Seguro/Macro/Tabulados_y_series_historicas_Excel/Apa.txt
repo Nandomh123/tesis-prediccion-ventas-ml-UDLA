@@ -1,0 +1,25 @@
+Referencia en APA 7
+Puedes copiar esta referencia en tu bibliografía
+
+Instituto Nacional de Estadística y Censos. (s. f.). Índice de Precios al Consumidor 2025. 
+httpswww.ecuadorencifras.gob.ecindice-de-precios-al-consumidor-2025
+
+No incluyas “Versión 3.4” ni el año 2026 de la ficha anterior esos datos correspondían a otro recurso, no a esta página.
+
+Cita dentro del texto
+Primera cita
+(Instituto Nacional de Estadística y Censos [INEC], s. f.).
+
+Citas posteriores
+(INEC, s. f.).
+
+Ejemplo para tu metodología
+
+Los datos del índice de precios al consumidor se obtuvieron de los tabulados mensuales disponibles en el portal del Instituto Nacional de Estadística y Censos (INEC, s. f.).
+
+Si elaboras una tabla con esos datos
+Debajo de la tabla puedes colocar
+
+Nota. Elaboración propia a partir de los tabulados del Índice de Precios al Consumidor 2025, del Instituto Nacional de Estadística y Censos (INEC, s. f.).
+
+Esta referencia identifica la página desde la que accediste a los datos. Si finalmente utilizas un Excel específico, puedes citar ese conjunto de datos con su título y fecha propios; no debes trasladarle automáticamente la fecha o versión de otro recurso.

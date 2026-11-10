@@ -1,0 +1,19 @@
+﻿caso,regla,peso
+suave,croston_sba > 1097.91,93308.86869490995
+suave,lag_0 > 273.64,37605.79392254428
+suave,lag_1 > 268.46,18691.316823475383
+suave,y_mismo_mes_anio_ant > 209.35,17743.03593772596
+suave,media_12 > 588.10,16118.217651154033
+suave,media_6 > 586.72,13447.443160201577
+intermitente,lag_0 <= 0.00,-33415.91705744982
+intermitente,croston_sba <= 60.38,-29677.09386836456
+intermitente,y_mismo_mes_anio_ant <= 0.00,-13835.435033148535
+intermitente,lag_1 <= 0.00,-13741.561917105751
+intermitente,lag_3 <= 0.00,-9072.442969040292
+intermitente,30.31 < media_6 <= 586.72,-8326.711842996834
+irregular (lumpy),croston_sba <= 60.38,-30009.14597355013
+irregular (lumpy),y_mismo_mes_anio_ant <= 0.00,-14421.463920947732
+irregular (lumpy),lag_1 <= 0.00,-13158.814301071623
+irregular (lumpy),dias_habiles_obj > 22.00,11297.90347050775
+irregular (lumpy),lag_3 <= 0.00,-8200.230583752715
+irregular (lumpy),feriados_habiles_obj <= 0.00,5313.677438052009

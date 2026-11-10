@@ -1,0 +1,16 @@
+1. Referencias bibliográficas
+Archivo 1 — IPC general e IPC salud (2025)
+Instituto Nacional de Estadística y Censos. (2025). Tabulados y series históricas del índice de precios al consumidor (IPC), enero de 2025 [Conjunto de datos]. https://www.ecuadorencifras.gob.ec/indice-de-precios-al-consumidor-2025/
+Archivo 2 — Desempleo (2026)
+Instituto Nacional de Estadística y Censos. (2026). Tabulados del mercado laboral: Encuesta Nacional de Empleo, Desempleo y Subempleo (ENEMDU), mayo de 2026 [Conjunto de datos]. https://www.ecuadorencifras.gob.ec/estadisticas-laborales-enemdu/
+Los títulos identifican los conjuntos de datos que utilizaste. El INEC dispone de los tabulados en sus páginas oficiales correspondientes.
+Tasa activa
+Banco Central del Ecuador. (2026). Tasas de interés efectivas vigentes: Septiembre de 2026 [Conjunto de datos]. https://contenido.bce.fin.ec/documentos/Estadisticas/SectorMonFin/TasasInteres/TasasVigentes092026.html
+. Referencias APA 7 corregidas
+Estas son las referencias que te recomiendo utilizar en tu investigación.
+Remesas
+Banco Central del Ecuador. (s. f.-b). Serie histórica de remesas de trabajadores [Conjunto de datos]. Recuperado el 15 de octubre de 2026, de https://contenido.bce.fin.ec/remesas/
+IMAEc
+Banco Central del Ecuador. (2026). Indicador mensual de actividad económica del Ecuador (IMAEc): Julio de 2026 [Conjunto de datos]. https://contenido.bce.fin.ec/imaec/
+Riesgo país
+Banco Central del Ecuador. (s. f.-a). Riesgo país [Conjunto de datos]. Recuperado el 15 de octubre de 2026, de https://contenido.bce.fin.ec/wp-content/uploads/ESTADISTICAS-ECONOMICAS/indicadores/RiesgoPais.html
