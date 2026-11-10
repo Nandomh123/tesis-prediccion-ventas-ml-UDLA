@@ -1,0 +1,13 @@
+{
+  "admitidas": [
+    "ipc_general_var_a",
+    "desempleo",
+    "imae_var_a",
+    "riesgo_pais",
+    "tasa_activa",
+    "remesas_var_a",
+    "petroleo_wti",
+    "oni"
+  ],
+  "nota": "Series alineadas al mes en que se publican (rezago de publicación)."
+}
