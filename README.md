@@ -73,7 +73,7 @@ Como los datos son confidenciales, los 865.900 registros de facturación (enero 
 ## Estructura del repositorio
 
 ```text
-├── Entorno_seguro.ipynb             # seudonimización, panel, base sintética y validación
+├── Entorno_seguro.ipynb             # seudonimización, panel, base sintética y validación (No es posible ejecutar)
 ├── Entorno_análisis.ipynb           # análisis completo de los capítulos IV y V (14 pasos)
 ├── Data/
 │   ├── Seguro/
